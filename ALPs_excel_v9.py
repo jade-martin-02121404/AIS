@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-VERSION 7
+VERSION 9
 
 1) Reads per‐subject Excel landmarks for 3D scans & moulds to compute ALP deviations,
    centroid trajectories, surface deviation maps, and iliac width/tilt angles (Figures 1–3).
